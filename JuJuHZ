@@ -1,0 +1,10 @@
+#HostStart
+127.0.0.1 localhost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+#HostEnd
+
+#LoginStart
+167.114.54.202 psteam.com.br
+#LoginEnd
